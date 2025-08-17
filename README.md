@@ -15,6 +15,9 @@ Apache Kafka — масштабируемая платформа потоков�
 
 **Kafka Optimization Theorem** утверждает: любой поток в Kafka балансирует между throughput vs latency и durability vs availability ([ofbizian.com][1], [Red Hat Developer][2]).
 
+<img width="600" height="551" alt="image" src="https://github.com/user-attachments/assets/df5dc42d-61b0-48ba-9474-66ef9307111d" />
+
+
 Основные элементы системы:
 
 * **Producers**
